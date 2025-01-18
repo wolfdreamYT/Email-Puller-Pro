@@ -1,4 +1,4 @@
-# Email--Puller-Pro
+# Email-Puller-Pro
 
 **This is for our 85 subscriber milestone, and lets try to get to 100 by the end of the month!**
 
