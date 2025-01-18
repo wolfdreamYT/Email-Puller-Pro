@@ -22,27 +22,7 @@ All the other imports are built in libraries, so dont worry about those, just ru
 
 **Enter your desired email that you have explicit permissions for**
 
-After you do those steps, you should have a nice formatted result, with the info you will want. Here is an example of my alt email info:
-
-Email Domain Info:
-Email: wolfdream225@gmail.com
-Domain: gmail.com
-IP Address: (IP is removed for security reasons, but it should show your public IP)
-GeoIP Info:
-  IP: 142.251.41.37
-  Hostname: (Also removed for security issues)
-  City: Toronto
-  Region: Ontario
-  Country: Canada
-  Location: 43.7064,-79.3986
-  Organization: AS15169 Google LLC
-  Postal: M5A
-  Timezone: America/Toronto
-ISP Info:
-  ISP: AS15169 Google LLC
-  ISP Website: https://as15169.com
-  ISP Location: 43.7064,-79.3986
-
+After you do those steps, you should have a nice formatted result, with the info you will want.
 
 # Contribute:
 
